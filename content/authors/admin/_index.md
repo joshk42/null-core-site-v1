@@ -1,5 +1,5 @@
 ---
-avatar_filename: nade2020.png
+avatar_filename: avatar.png
 bio: All your base are belongs to us.
 interests:
   - UT99
